@@ -56,7 +56,7 @@ Contents of the supplemental material should be referred to appropriately in the
 
 ## Program
 
-### Invited Speakers
+### Keynote Speakers
 
 - <ins>11:30 UTC:</ins> **GLPathNet:  Exploiting data size and resolution of histopathologic images with a Global-Local Pathology Network**, *[Margrit Betke](https://www.bu.edu/cs/profiles/betke/) (Boston University)*; [\[Info\]](/talks/Margrit_Betke.html)
 - <ins>12:20 UTC:</ins> **Real World Evidence in Constructing Artificial Intelligence Apps to Improve Clinical Care**, *[Stephen Wong](https://www.houstonmethodist.org/faculty/stephen_wong/) (Houston Methodist)*; [\[Info\]](/talks/Stephen_Wong.html)
